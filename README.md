@@ -1,12 +1,13 @@
 ### Hi there 👋 , welcome to my GitHub page! 
 
+👩🏻‍💻 <br>
+
 I'm a junior web developer, based in London.  
 
-🗺️   I'm working with 'maps and data' at Hackney Council: <br> See what we are working on here: https://github.com/LBHackney-IT/lbh-webmap-template <br>
-💬   Ask me about maps, data, web development, tech gadgets and much more! <br>
-📫   How to reach me: @martav__ on Twitter <br>
-✨   Pronouns: she/her <br>
-
+🗺️ I'm working with 'maps and data' at Hackney Council: <br> See what we are working on here: https://github.com/LBHackney-IT/lbh-webmap-template <br>
+💬 Ask me about maps, data, web development, tech gadgets and much more! <br>
+📫 How to reach me: @martav__ on Twitter <br>
+✨ Pronouns: she/her <br>
 
 <!--
 **martavj/martavj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
