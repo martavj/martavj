@@ -2,9 +2,9 @@
 
 I'm a junior web developer, based in London.  
 
-🔭 I’m currently working with 'maps and data' at Hackney Council. Check it out what we are working on here: https://github.com/LBHackney-IT/lbh-webmap-template
-💬 Ask me about maps, data, web development, tech gadgets and much more! 
-😄 Pronouns: she/her
+🔭  Working with 'maps and data' at Hackney Council. See what we are working on here: https://github.com/LBHackney-IT/lbh-webmap-template <br>
+💬  Ask me about maps, data, web development, tech gadgets and much more! <br>
+😄  Pronouns: she/her <br>
 
 <!--
 **martavj/martavj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
