@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Please note that I am currently learning not only web development but how to use Github. Most of my repositories were created as part of my learning process and these are way far from being perfect and are not maintained.
+Please note that I am currently learning not only web development but how to use Github. Most of my repositories are created as part of my learning process and these are way far from being perfect and are not maintained. Constructive feedback always welcome!
 
 Marta 
 
