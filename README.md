@@ -1,10 +1,6 @@
 ### Hi there 👋 , welcome to my GitHub page! 
 
-👩🏻‍
-
-<br />
-
-I'm Marta, a geographic information analyst and junior web developer, based in London.  
+👩🏻‍I'm Marta, a geographic information analyst and junior web developer, based in London.  
 
 🗺️ I work with 'maps and data' at Hackney Council: <br> See what we are working on here: https://github.com/LBHackney-IT/lbh-webmap-template <br>
 💻 I’m currently working on my final project - a web app built with html,css,js,php and Mysql. Also, I am working on my portfolio.<br>
@@ -18,7 +14,7 @@ I'm Marta, a geographic information analyst and junior web developer, based in L
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/martavj/resources/js.png" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="26px" src="https://github.com/martavj/resources/blob/main/js.png" /></a>
 
 <br />
 <br />
