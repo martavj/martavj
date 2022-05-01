@@ -1,12 +1,15 @@
 ### Hi there 👋 , welcome to my GitHub page! 
 
-👩🏻‍I'm Marta, a geographic information analyst and junior web developer, based in London.  
+* 👩🏻‍  I'm Marta Villalobos, a geographic information analyst and junior web developer
 
-🗺️ I work with 'maps and data' at Hackney Council: <br> See what we are working on here: https://github.com/LBHackney-IT/lbh-webmap-template <br>
-💻 I’m currently working on my final project - a web app built with html,css,js,php and Mysql. Also, I am working on my portfolio.<br>
-💬 Ask me about maps, data, web development, tech gadgets and much more! <br>
-📫 How to reach me: @martav__ on Twitter <br>
-✨ Pronouns: she/her 
+* 🌍  Based in London
+
+* ✨ Pronouns: she/her 
+
+* 🗺️  I work with 'maps and data' at Hackney Council: <br> See what we are working on here: https://github.com/LBHackney-IT/lbh-webmap-template 
+
+* 💬  Ask me about maps, data, web development, tech gadgets and much more!
+
 
 ### Skills 
 
@@ -22,8 +25,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+### Socials
 
-<br />
+<p align="left"> <a href="https://www.github.com/martavj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/martavillalobos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@martav__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 <br />
 
 Please note that I am currently learning not only web development but how to use Github. Most of my repositories are created as part of my learning process and these are way far from being perfect and are not maintained. Constructive feedback always welcome!
